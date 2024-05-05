@@ -1,6 +1,7 @@
 import React from "react";
 import '../Styles/GenreFilter.css';
 
+
 const genres = [
   "Drama",
   "Crime",
